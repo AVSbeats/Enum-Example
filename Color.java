@@ -1,5 +1,5 @@
 enum Color {
 
-    BLACK, BLUE, GREEN, RED, WHITE, YELLOW
+    BLACK, BLUE, GREEN, RED, WHITE, YELLOW, GRAY
 
 };

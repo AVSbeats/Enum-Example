@@ -1,5 +1,5 @@
 enum Model {
 
-    SEDAN, CONVERTIBLE, MINIVAN
+    SEDAN, CONVERTIBLE, MINIVAN, SUV
 
 };
